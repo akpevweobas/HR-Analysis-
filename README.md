@@ -1,4 +1,5 @@
 # HR EMPLOYEE ATTRITION PROJECT
+![](Icon.jpg)
 
 The HR Employee Attrition Analysis delves into the factors influencing employee turnover, retention rate within the company, providing valuable insights to enhance retention strategies and promotes a healthier workplace environment.
 ##DESCRIPTION
@@ -23,7 +24,14 @@ The dataset used in this analysis was obtained from MeriSKILL during my internsh
 
   7.	Further analysis showed that the 41% of the Departing employees have only worked at 1 company. Going deeper with my analysis, it showed that 143 of the 237 total Attritions were         at level 1 (Entry Level) according to their Job Level
 
-  8.	Further analysis showed that employee between the age of 26 and 33 worked Over Time the most. According to Attrition by Age, employees between the age of 26 and 35 parted ways           with the company. 
+  8.	Further analysis showed that employee between the age of 26 and 33 worked Over Time the most. According to Attrition by Age, employees between the age of 26 and 35 parted ways           with the company.
+
+![](HR_Attrition_Analysis_DASHBOARD_1.jpg)    
+
+
+![](HR_Attrition_Analysis_DASHBOARD_2.jpg) 
+
+## YOU CAN INTERACT WITH THE DASHBOARD HERE: https://app.powerbi.com/groups/me/reports/7e062aa4-6431-4234-b9b5-b619e0397291/ReportSection?experience=power-bi 
 
 ## CONCLUSION.
  
