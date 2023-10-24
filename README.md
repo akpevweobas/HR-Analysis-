@@ -2,7 +2,7 @@
 ![](Icon.jpg)
 
 The HR Employee Attrition Analysis delves into the factors influencing employee turnover, retention rate within the company, providing valuable insights to enhance retention strategies and promotes a healthier workplace environment.
-##DESCRIPTION
+## DESCRIPTION
 The dataset used in this analysis was obtained from MeriSKILL during my internship. The dataset contained 35 columns and 1470 rows. I worked with SQL for detailed analysis and manipulation, followed by Exploratory Data Analysis and PowerBi for visualizations
 ## KPIs. 
 1. Total Number of Employees: 1470
