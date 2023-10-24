@@ -33,6 +33,7 @@ The dataset used in this analysis was obtained from MeriSKILL during my internsh
 
 ## YOU CAN INTERACT WITH THE DASHBOARD HERE: https://app.powerbi.com/groups/me/reports/7e062aa4-6431-4234-b9b5-b619e0397291/ReportSection?experience=power-bi 
 
+
 ## CONCLUSION.
  
  In the rearms of business, an insightful HR Analysis offers a profound glimpse into the heartbeat of the organization. Through this analysis, we have been able to uncover critical pattens and trends shaping the Rate of Attrition, giving rise to these key takeaways:
