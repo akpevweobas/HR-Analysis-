@@ -9,6 +9,7 @@ The dataset used in this analysis was obtained from MeriSKILL during my internsh
 2. Total Attritions: 237
 3. Total Retained Employees: 1233
 4. Attrition Rate: 16.12%
+
 ## INSIGHTS AND RECOMMENDATIONS 
   1.	Looking at the Total Attritions, Marital Status had a huge effect at Attritions. A little over 50% were singles, having the highest count of the 3 categories.
 
@@ -22,7 +23,7 @@ The dataset used in this analysis was obtained from MeriSKILL during my internsh
 
   6.	Almost half of the employee who left exhibited low Job Satisfaction. Regular surveys should be taken within the company to understand an employee feeling about his/her job.
 
-  7.	Further analysis showed that the 41% of the Departing employees have only worked at 1 company. Going deeper with my analysis, it showed that 143 of the 237 total Attritions were         at level 1 (Entry Level) according to their Job Level
+  7.	Further analysis showed that the 41% of the Departing employees have only worked at 1 company. Going deeper with my analysis, it showed that 143 of the 237 total Attritions were at level 1 (Entry Level) according to their Job Level
 
   8.	Further analysis showed that employee between the age of 26 and 33 worked Over Time the most. According to Attrition by Age, employees between the age of 26 and 35 parted ways           with the company.
 
@@ -31,7 +32,7 @@ The dataset used in this analysis was obtained from MeriSKILL during my internsh
 
 ![](HR_Attrition_Analysis_DASHBOARD_2.jpg) 
 
-## YOU CAN INTERACT WITH THE DASHBOARD HERE: https://app.powerbi.com/groups/me/reports/7e062aa4-6431-4234-b9b5-b619e0397291/ReportSection?experience=power-bi 
+## YOU CAN INTERACT WITH THE DASHBOARD here https://app.powerbi.com/groups/me/reports/7e062aa4-6431-4234-b9b5-b619e0397291/ReportSection?experience=power-bi : 
 
 
 ## CONCLUSION.
