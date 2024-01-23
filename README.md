@@ -34,7 +34,7 @@ The dataset used in this analysis was obtained from MeriSKILL during my internsh
 
 ![](HR_Attrition_Analysis_DASHBOARD_2.jpg) 
 
-## YOU CAN INTERACT WITH THE DASHBOARD here https://app.powerbi.com/groups/me/reports/7e062aa4-6431-4234-b9b5-b619e0397291/ReportSection?experience=power-bi: 
+## YOU CAN INTERACT WITH THE DASHBOARD here [https://app.powerbi.com/groups/me/reports/7e062aa4-6431-4234-b9b5-b619e0397291/ReportSection?experience=power-bi: ](https://app.powerbi.com/groups/me/reports/b6f66d40-242a-4f07-94f6-9474089f3367/ReportSection?experience=power-bi)
 
 
 ## CONCLUSION.
