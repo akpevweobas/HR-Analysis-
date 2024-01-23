@@ -6,16 +6,16 @@ The HR Employee Attrition Analysis delves into the factors influencing employee 
 The dataset used in this analysis was obtained from MeriSKILL during my internship. The dataset contained 35 columns and 1470 rows. I worked with SQL for detailed analysis and manipulation, followed by Exploratory Data Analysis and PowerBi for visualizations
 ## KPIs. 
 1. Total Number of Employees: 1470
-2. Total Attritions: 237
+2. Total Attritions: 711
 3. Total Retained Employees: 1233
 4. Attrition Rate: 16.12%
 
 ## INSIGHTS AND RECOMMENDATIONS 
   1.	Looking at the Total Attritions, Marital Status had a huge effect at Attritions. A little over 50% were singles, having the highest count of the 3 categories.
 
-  2.	From Job Role, Laboratory Technicians had the highest number of employees leaving. 
+  2.	From Job Role, Sales Executives had the highest number of employees leaving. 
 
-  3.	Laboratory Technicians and Research Scientists were among the roles of employees who left the company the most. By Department, Research and Development lost about 133 employees           out of the 237 Attritions. It is necessary to look into workers satisfaction from the department to determine how well its workers are being treated.
+  3.	Sales Executives and Research Scientists were among the roles of employees who left the company the most. By Department, Research and Development lost about 453 employees                 out of the 711 total Attritions. It is necessary to look into workers satisfaction from the department to determine how well its workers are being treated.
 
   4.	From this analysis, male employees left the company the most by Gender. 150 male employees left their jobs out of the total 237 Attritions.
 
