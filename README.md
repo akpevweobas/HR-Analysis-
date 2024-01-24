@@ -2,12 +2,14 @@
 ![](Icon.jpg)
 
 The HR Employee Attrition Analysis delves into the factors influencing employee turnover, retention rate within the company, providing valuable insights to enhance retention strategies and promotes a healthier workplace environment.
+
 ## DESCRIPTION
 The dataset used in this analysis was obtained from MeriSKILL during my internship. The dataset contained 35 columns and 1470 rows. I worked with SQL for detailed analysis and manipulation, followed by Exploratory Data Analysis and PowerBi for visualizations
+
 ## KPIs. 
-1. Total Number of Employees: 1470
+1. Total Number of Employees: 4410
 2. Total Attritions: 711
-3. Total Retained Employees: 1233
+3. Total Retained Employees: 3699
 4. Attrition Rate: 16.12%
 
 ## INSIGHTS AND RECOMMENDATIONS 
@@ -21,13 +23,16 @@ The dataset used in this analysis was obtained from MeriSKILL during my internsh
 
   5.	Judging by Business Travel, approximately 29% of the employees who left travelled frequently. That is 126 of the total Attritions travelled frequently. This may be a huge factor to       attrition at the Organisation.
      
-  6.  About 27.62% (195) out of the 711 Total Attrition reported low Job Satisfactory from the Employee Survey taken.
+  6.  About 27.62% (195) out of the 711 Total Attrition reported low Job Satisfactory from the Employee's survey which was taken.
     
-  7.  125 of the Total Low Satisfactory Employees fell under the Research and Development Department with Research Scientists leaving the most.
+  7.  125 of the Total Low Satisfactory Employees fell under the Research and Development Department with Research Scientists Job Role leaving the most.
       
   8.	Further analysis showed that the 41% of the Departing employees have only worked at 1 company. Going deeper with my analysis, it showed that 143 of the 237 total Attritions were at       level 1 (Entry Level) according to their Job Level
+     
+  10.	worked atleast a year 32.2% (229)
+  11.	entry level roles 362 (50.9 %
 
-  11.	Further analysis showed that employee between the age of 26 and 33 worked Over Time the most. According to Attrition by Age, employees between the age of 26 and 35 parted ways           with the company.
+  12.	Further analysis showed that employees who fell in the age range 'Under 30' i.e between 18 - 29 years of age left the country the most, having about 38.40% (273) from the total
 
 ![](HR_Attrition_Analysis_DASHBOARD_1.jpg)    
 
