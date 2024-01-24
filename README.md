@@ -1,10 +1,6 @@
-# HR EMPLOYEE ATTRITION PROJECT
+# HR EMPLOYEE ATTRITION ANALYSIS
 ![](Icon.jpg)
-
 The HR Employee Attrition Analysis delves into the factors influencing employee turnover, retention rate within the company, providing valuable insights to enhance retention strategies and promotes a healthier workplace environment.
-
-## DESCRIPTION
-The dataset used in this analysis was obtained from MeriSKILL during my internship. The dataset contained 35 columns and 1470 rows. I worked with SQL for detailed analysis and manipulation, followed by Exploratory Data Analysis and PowerBi for visualizations
 
 ## KPIs. 
 1. Total Number of Employees: 4410
@@ -27,17 +23,14 @@ The dataset used in this analysis was obtained from MeriSKILL during my internsh
     
   7.  125 of the Total Low Satisfactory Employees fell under the Research and Development Department with Research Scientists Job Role leaving the most.
       
-  8.	Further analysis showed that the 41% of the Departing employees have only worked at 1 company. Going deeper with my analysis, it showed that 143 of the 237 total Attritions were at       level 1 (Entry Level) according to their Job Level
+  8.	Further analysis showes that 50.9%% of the Departed employees (362) have only worked at atleast 1 company.
      
-  10.	worked atleast a year 32.2% (229)
-  11.	entry level roles 362 (50.9 %
+  9.	Going deeper with my analysis, it showed that 225 of the 711 total Attrition have only been working at the company for atleast 1 year.
 
-  12.	Further analysis showed that employees who fell in the age range 'Under 30' i.e between 18 - 29 years of age left the country the most, having about 38.40% (273) from the total
+  10.	Further analysis showed that employees who fell in the age range 'Under 30' i.e between 18 - 29 years of age left the country the most, having about 38.40% (273) from the total.
 
 ![](HR_Attrition_Analysis_DASHBOARD_1.jpg)    
 
-
-![](HR_Attrition_Analysis_DASHBOARD_2.jpg) 
 
 ## YOU CAN INTERACT WITH THE DASHBOARD here [https://app.powerbi.com/groups/me/reports/7e062aa4-6431-4234-b9b5-b619e0397291/ReportSection?experience=power-bi: ](https://app.powerbi.com/groups/me/reports/b6f66d40-242a-4f07-94f6-9474089f3367/ReportSection?experience=power-bi)
 
