@@ -1,5 +1,6 @@
 # HR EMPLOYEE ATTRITION ANALYSIS
 ![](Icon.jpg)
+
 The HR Employee Attrition Analysis delves into the factors influencing employee turnover, retention rate within the company, providing valuable insights to enhance retention strategies and promotes a healthier workplace environment.
 
 ## KPIs. 
