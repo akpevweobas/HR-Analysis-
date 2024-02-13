@@ -30,11 +30,11 @@ The HR Employee Attrition Analysis delves into the factors influencing employee 
 
   10.	Further analysis showed that employees who fell in the age range 'Under 30' i.e between 18 - 29 years of age left the country the most, having about 38.40% (273) from the total.
 
+## DATA VISUALIZATION 
 ![](dashboard.jpg)    
 
 
-## YOU CAN INTERACT WITH THE DASHBOARD here [https://app.powerbi.com/groups/me/reports/7e062aa4-6431-4234-b9b5-b619e0397291/ReportSection?experience=power-bi: ](https://app.powerbi.com/groups/me/reports/b6f66d40-242a-4f07-94f6-9474089f3367/ReportSection?experience=power-bi)
-
+YOU CAN ALSO INTERACT WITH THE REPORT [Here](https://app.powerbi.com/groups/me/reports/7e062aa4-6431-4234-b9b5-b619e0397291/ReportSection?experience=power-bi)
 
 ## CONCLUSION.
  
